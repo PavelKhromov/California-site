@@ -7,3 +7,14 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+
+/* Just set this property one's and
+this will be applied for all elements*/
+* {
+ box-sizing: border-box;
+ }
+
+ a {
+ 	color: $mainOrange;
+ }
